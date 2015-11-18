@@ -5,7 +5,7 @@ class TimeGrid
 	/* DATABASE OPTIONS */
 	private $db_host = 'mysql:host=localhost;dbname=timegrid';
 	private $db_user = 'root';
-	private $db_pass = 'PASXT1OIOIOI';
+	private $db_pass = 'password';
 	private $db_char = array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8');
 
 	// database handler
