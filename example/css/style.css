@@ -1,0 +1,15 @@
+.alert-hide {
+	display: none;
+}
+
+#category-header {
+	margin-top: 10px;
+}
+
+.capitalize {
+	text-transform:	capitalize;
+}
+
+.menu {
+	margin-right: 10px;
+}
